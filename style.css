@@ -1,166 +1,146 @@
 body {
-
-	text-align: center;
-	font-family: 'Roboto';
-	font-weight: 400;
-	background: #f7f7f7;
-	margin: 0px;
+    text-align: center;
+    font-family: 'Roboto';
+    font-weight: 400;
+    background: #f7f7f7;
+    margin: 0px;
 }
 
 #nav-bar-top {
-	position: relative;
-	background-color: #ffffff;
-	border: 0px;
-	box-shadow:  0 2px 2px rgba(0, 0, 0, 0.2);
-	min-height: 72px;
+    position: relative;
+    background-color: #ffffff;
+    border: 0px;
+    box-shadow: 0 2px 2px rgba(0, 0, 0, 0.2);
+    min-height: 72px;
 }
 
 .content {
-	margin-left: 180px;
-	margin-right: 180px;
-	padding-left: 10px;
-	padding-right: 10px;
-	
-
+    margin-left: 180px;
+    margin-right: 180px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 #logo {
-	float: left;
-	text-align: left;
-	padding-top: 15px;
-	padding-bottom: 15px;
-	font-size: 36px;
-	font-weight: 500;
-	color: #0695d6;
-	
+    float: left;
+    text-align: left;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 36px;
+    font-weight: 500;
+    color: #0695d6;
 }
-
 
 #sections {
-	float: right;
-	
+    float: right;
 }
 
-ul {	
-	
-	list-style-type: none;
-	margin: 0px;
-	padding: 0px;
-	line-height: 40px;
-
+ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    line-height: 40px;
 }
 
-li{
-	float: left;
-	display: block;
-	padding-top: 16px;
-	padding-bottom: 16px;
-	padding-left: 10px;
-	padding-right: 10px;
-	font-size: 16px;
-	font-weight: 500;
-	color: #4ECDC4;
-	text-transform: uppercase;
-
+li {
+    float: left;
+    display: block;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 16px;
+    font-weight: 500;
+    color: #4ECDC4;
+    text-transform: uppercase;
 }
 
 li:hover {
-	background-color: #4ECDC4;
-	color: #f7f7f7;
+    background-color: #4ECDC4;
+    color: #f7f7f7;
 }
 
-
-#cover{
-	background-image: url(file:///Users/mercedesfiz/Desktop/mecHAK/1.%20Proyecto%20v0.1/assets/102floor.jpg);
-	background-position: center center;
-	background-size: cover;
-	margin: 0px;
+#cover {
+    background-image: url(file:///Users/mercedesfiz/Documents/GitHub/Probando-crear-un-repo/assets/102floor.jpg);
+    background-position: center center;
+    background-size: cover;
+    margin: 0px;
 }
 
-#filter{
-	background-color: rgba(6, 43, 86, 0.57);
+#filter {
+    background-color: rgba(6, 43, 86, 0.57);
+    2
 }
 
 .alineacion {
-	display: inline-block;
-	background-color: #ffffff;
-	width: 230px;
-	border-radius: 4px;
-	margin-left: 10px;
-	margin-right: 10px;
-	margin-top: 40px;
-	margin-bottom: 40px;
-	padding: 20px;
-	box-shadow:  0 2px 2px rgba(0, 0, 0, 0.2);
+    display: inline-block;
+    background-color: #ffffff;
+    width: 230px;
+    border-radius: 4px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    padding: 20px;
+    box-shadow: 0 2px 2px rgba(0, 0, 0, 0.2);
 }
 
-#imagencard{
-	position: relative;
-	padding-bottom: 20px;
+#imagencard {
+    position: relative;
+    padding-bottom: 20px;
 }
 
-.boton{
-	background-color: #4ECDC4;
-	border-radius: 4px;
-	padding: 9px 13px 9px 13px;
-	margin-left: 60px;
-	margin-right: 60px;
-	margin-top: 15px;
-	font-weight: 400;
-	color: #ffffff;
-
-
+.boton {
+    background-color: #4ECDC4;
+    border-radius: 4px;
+    padding: 9px 13px 9px 13px;
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top: 15px;
+    font-weight: 400;
+    color: #ffffff;
 }
 
 .boton:hover {
-	background-color: #5FDDD5;
+    background-color: #5FDDD5;
 }
 
-
-h1{
-	margin: 0px;
-	font-size: 50px;
-	font-weight: 500;
-	text-transform: uppercase;
-
+h1 {
+    margin: 0px;
+    font-size: 50px;
+    font-weight: 500;
+    text-transform: uppercase;
 }
 
-
-#titulo{
-	margin-left: 180px;
-	margin-right: 180px;
-	padding-top: 150px;
-	padding-bottom: 5px;
-	text-shadow:  0 2px 2px rgba(0, 0, 0, 0.2);
-	color: #fafafa;
+#titulo {
+    margin-left: 180px;
+    margin-right: 180px;
+    padding-top: 150px;
+    padding-bottom: 5px;
+    text-shadow: 0 2px 2px rgba(0, 0, 0, 0.2);
+    color: #fafafa;
 }
 
-h3{
-	color: #292F36;
+h3 {
+    color: #292F36;
 }
 
-h4{
-	margin: 0px;
-	font-size: 18px;
-	font-weight: 400;
+h4 {
+    margin: 0px;
+    font-size: 18px;
+    font-weight: 400;
 }
 
 #bajada {
-	margin-left: 180px;
-	margin-right: 180px;
-	text-shadow:  0 2px 2px rgba(0, 0, 0, 0.2);
-	color: #fafafa;
-	padding-bottom: 150px;
-
+    margin-left: 180px;
+    margin-right: 180px;
+    text-shadow: 0 2px 2px rgba(0, 0, 0, 0.2);
+    color: #fafafa;
+    padding-bottom: 150px;
 }
 
-
-
-
-footer{
-	background-color: #ffffff;
-	border: 0px;
-	min-height: 120px;
-	
+footer {
+    background-color: #ffffff;
+    border: 0px;
+    min-height: 120px;
 }
-
