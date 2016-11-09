@@ -1,6 +1,6 @@
-![alt text][logo]
+![alt text][logo1]
 
-[logo]: assets/ejemplo-readme.png "Logo Title Text 2"
+[logo1]: assets/ejemplo-readme.png "Logo Title Text 2"
 
 # Probando-crear-un-repo
 
